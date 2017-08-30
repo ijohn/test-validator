@@ -1,0 +1,12 @@
+{
+  "name": "test-validator",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-validator": "^4.1.0"
+  }
+}
